@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ETicaretAPI.Domain\ETicaretAPI.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Microsoft.EntityFrameworkCore">
+        <HintPath>..\..\..\..\.nuget\packages\microsoft.entityframeworkcore\6.0.20\lib\net6.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="FluentValidation" Version="11.7.1" />
+        <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.7.1" />
+        <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    </ItemGroup>
+
+</Project>

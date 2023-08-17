@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KP2yoC37pyw0kKZCmGIv1sbEpGkYoNyE6sPP6ExXAU6z6TOGCnZR2NqScK2cBGL/qkVxQKGqfQkOpx0wCOV8bw==",
+  "success": true,
+  "projectFilePath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

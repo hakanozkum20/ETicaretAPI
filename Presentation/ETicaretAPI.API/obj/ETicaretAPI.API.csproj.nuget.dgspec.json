@@ -1,0 +1,392 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj": {}
+  },
+  "projects": {
+    "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
+        "projectName": "ETicaretAPI.Application",
+        "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
+        "packagesPath": "/home/esta/.nuget/packages/",
+        "outputPath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/esta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
+                "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+        "projectName": "ETicaretAPI.Domain",
+        "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+        "packagesPath": "/home/esta/.nuget/packages/",
+        "outputPath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/esta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/ETicaretAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/ETicaretAPI.Infrastructure.csproj",
+        "projectName": "ETicaretAPI.Infrastructure",
+        "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/ETicaretAPI.Infrastructure.csproj",
+        "packagesPath": "/home/esta/.nuget/packages/",
+        "outputPath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/esta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
+                "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
+        "projectName": "ETicaretAPI.Persistence",
+        "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
+        "packagesPath": "/home/esta/.nuget/packages/",
+        "outputPath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/esta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
+                "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj",
+        "projectName": "ETicaretAPI.API",
+        "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj",
+        "packagesPath": "/home/esta/.nuget/packages/",
+        "outputPath": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/esta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
+                "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj"
+              },
+              "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/ETicaretAPI.Infrastructure.csproj": {
+                "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/ETicaretAPI.Infrastructure.csproj"
+              },
+              "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj": {
+                "projectPath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

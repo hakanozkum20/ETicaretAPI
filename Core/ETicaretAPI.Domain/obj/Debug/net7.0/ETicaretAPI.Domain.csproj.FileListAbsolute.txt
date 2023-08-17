@@ -1,0 +1,12 @@
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net7.0/ETicaretAPI.Domain.deps.json
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net7.0/ETicaretAPI.Domain.dll
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net7.0/ETicaretAPI.Domain.pdb
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ETicaretAPI.Domain.csproj.AssemblyReference.cache
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ETicaretAPI.Domain.AssemblyInfoInputs.cache
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ETicaretAPI.Domain.AssemblyInfo.cs
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ETicaretAPI.Domain.dll
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/refint/ETicaretAPI.Domain.dll
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ETicaretAPI.Domain.pdb
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ref/ETicaretAPI.Domain.dll
