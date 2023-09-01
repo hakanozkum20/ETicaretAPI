@@ -1,3 +1,7 @@
 {
-  "dotnet.defaultSolution": "ETicaretAPI.sln"
+  "dotnet.defaultSolution": "ETicaretAPI.sln",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[csharp]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

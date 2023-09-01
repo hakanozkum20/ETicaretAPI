@@ -1,11 +1,71 @@
 {
   "Version": 1,
-  "Hash": "K8M4uZo9UoL6PiBpMUZfd6FD4YDLN0dDDlTYfg9nLw8=",
+  "Hash": "dHnXCPSGEB6vFiIvZOJm7PYD8Eal6YH1OA3RNSGhg64=",
   "Source": "ETicaretAPI.API",
   "BasePath": "_content/ETicaretAPI.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "ETicaretAPI.API/wwwroot",
+      "Source": "ETicaretAPI.API",
+      "ContentRoot": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/",
+      "BasePath": "_content/ETicaretAPI.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/resource/files/Untitled.jpg",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "resource/files/Untitled.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/resource/files/Untitled.jpg"
+    },
+    {
+      "Identity": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/resource/files/vaporwave-sunset-ocean-palm-tree-scenery-digital-art-4k-wallpaper-uhdpaper.com-692@1@k.jpg",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "resource/files/vaporwave-sunset-ocean-palm-tree-scenery-digital-art-4k-wallpaper-uhdpaper.com-692@1@k.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/resource/files/vaporwave-sunset-ocean-palm-tree-scenery-digital-art-4k-wallpaper-uhdpaper.com-692@1@k.jpg"
+    },
+    {
+      "Identity": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/resource/files/wallpaperflare.com_wallpaper.jpg",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "resource/files/wallpaperflare.com_wallpaper.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/resource/files/wallpaperflare.com_wallpaper.jpg"
+    }
+  ]
 }

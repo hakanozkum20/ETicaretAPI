@@ -9,5 +9,9 @@
     <ItemGroup>
       <ProjectReference Include="..\..\Core\ETicaretAPI.Application\ETicaretAPI.Application.csproj" />
     </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="AWSSDK.S3" Version="3.7.203.5" />
+        <PackageReference Include="Google.Cloud.Storage.V1" Version="4.6.0" />
+    </ItemGroup>
 
 </Project>

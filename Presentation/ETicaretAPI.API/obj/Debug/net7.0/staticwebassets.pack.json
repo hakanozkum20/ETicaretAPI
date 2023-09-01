@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/resource/files/Untitled.jpg",
+      "PackagePath": "staticwebassets/resource/files/Untitled.jpg"
+    },
+    {
+      "Id": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/resource/files/vaporwave-sunset-ocean-palm-tree-scenery-digital-art-4k-wallpaper-uhdpaper.com-692@1@k.jpg",
+      "PackagePath": "staticwebassets/resource/files/vaporwave-sunset-ocean-palm-tree-scenery-digital-art-4k-wallpaper-uhdpaper.com-692@1@k.jpg"
+    },
+    {
+      "Id": "/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/resource/files/wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets/resource/files/wallpaperflare.com_wallpaper.jpg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ETicaretAPI.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ETicaretAPI.API.props",
+      "PackagePath": "build\\ETicaretAPI.API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ETicaretAPI.API.props",
+      "PackagePath": "buildMultiTargeting\\ETicaretAPI.API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ETicaretAPI.API.props",
+      "PackagePath": "buildTransitive\\ETicaretAPI.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

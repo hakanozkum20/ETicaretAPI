@@ -20,5 +20,9 @@
         <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.7.1" />
         <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
     </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Abstractions/" />
+      <Folder Include="Abstractions/Storage/" />
+    </ItemGroup>
 
 </Project>

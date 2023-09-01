@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Cltd0i9mF3sr6RuiN7NpF0lh6j+RA8vlGuDuoJte710x68ulVIQQHYVAaYJlUvVuuywpiiR2daYZmj/dxM81Rg==",
+  "dgSpecHash": "14mQMDV//qcxdZckB9ywmSKx78uS4xvBBO2+nFjGeBvpJ5zunhNDuB6LtrDNWXf5boOHbkG8oa9Jk2NTHXvx0A==",
   "success": true,
   "projectFilePath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "/home/esta/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "/home/esta/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.7.1/fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "/home/esta/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
-    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
   ],
   "logs": []
 }

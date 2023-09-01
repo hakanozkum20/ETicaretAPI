@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Frq2Ec/Y6gRCm0/Y0N7lOJFBC29zlK++nGWzJxRo0J4R9xokaapsPI3cb3uTMX/jm2Nj65cdnki345utK8UZLA==",
+  "dgSpecHash": "LaOY/S0LGAidg+o7InaaK2PzjhHerGx9zn0ohQlpTIfTBRPynicCEmImD6iR+890uq8MzT/vDnOUU4lrMP+U1A==",
   "success": true,
   "projectFilePath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,7 @@
     "/home/esta/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/home/esta/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/home/esta/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
   ],
   "logs": []
 }
