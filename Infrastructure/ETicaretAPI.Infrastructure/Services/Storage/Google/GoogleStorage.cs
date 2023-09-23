@@ -67,7 +67,7 @@ namespace ETicaretAPI.Infrastructure.Services.Storage.Google
 
 
                 await  _storageClient.UploadObjectAsync(_bucketName,$"{pathOrContainerName}/{fileNewName}",file.ContentType,file.OpenReadStream());
-                datas.Add((fileNewName,pathOrContainerName));
+                datas.Add((fileNewName,$"{pathOrContainerName}/{fileNewName}"));
             }
             return datas;
 
