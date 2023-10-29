@@ -6,6 +6,7 @@ using FluentValidation.AspNetCore;
 using ETicaretAPI.Infrastructure.Services.Storage.Local;
 using ETicaretAPI.Infrastructure.Enums;
 using ETicaretAPI.Infrastructure.Services.Storage.Google;
+using ETicaretAPI.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddPersistenceServices();
 builder.Services.AddInfrastructureServices();
+builder.Services.AddApplicationServices();
 
 
 // builder.Services.AddStorage(StorageType.Azure);

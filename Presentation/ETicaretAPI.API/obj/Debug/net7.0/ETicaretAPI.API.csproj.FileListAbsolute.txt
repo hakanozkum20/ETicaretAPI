@@ -242,7 +242,6 @@
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/ETicaretAPI.Infrastructure.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/ETicaretAPI.Infrastructure.pdb
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/ETicaretAPI.API.staticwebassets.runtime.json
-/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/eticaretapi-397501-151ad1469f7d.json
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/AWSSDK.Core.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/AWSSDK.S3.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Google.Api.Gax.dll
@@ -253,3 +252,8 @@
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Google.Apis.Core.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Google.Apis.Storage.v1.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Google.Cloud.Storage.V1.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/MediatR.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/MediatR.Contracts.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/eticaretapi-397501-eca7aeb11e38.json
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/eticaretapi-397501-151ad1469f7d.json

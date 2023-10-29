@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oeMcDlArLGCUwaAxWkvbv8rrjZPoAAmI9kCihsLHUoFZ0iQuR6pQE8egm4tWV6tq0ZoezXHqaOvr1m35Bbwo0w==",
+  "dgSpecHash": "74PT4mKNN5UD8D8OrIctpp4mAnT+03ZjeNcRoYT6w/qDxMtjz7ZkAP4PKSKOHGpSNTVAprKaMI4ZGO+GtHXMUQ==",
   "success": true,
   "projectFilePath": "/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
   "expectedPackageFiles": [
-    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
   ],
   "logs": []
 }

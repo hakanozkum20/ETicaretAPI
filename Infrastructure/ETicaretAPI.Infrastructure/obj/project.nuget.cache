@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gdf7qTkxGL217augb8OR2H/sVUFxhRyJ4iUstNQglQlL8z0PKbpy4WTZjfcVkBaaW2e2WW9602FOtt1xZlmHPQ==",
+  "dgSpecHash": "M8LYqOi6yWTJQvDNgzVN2q383ct1MAC9mAEZ9IYUFcnv95vgMPueIyE4K0XLGU+hCMM9TCMYr0QiSQQDJ7CTXQ==",
   "success": true,
   "projectFilePath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/ETicaretAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/home/esta/.nuget/packages/awssdk.core/3.7.201.10/awssdk.core.3.7.201.10.nupkg.sha512",
-    "/home/esta/.nuget/packages/awssdk.s3/3.7.203.5/awssdk.s3.3.7.203.5.nupkg.sha512",
+    "/home/esta/.nuget/packages/awssdk.core/3.7.204.1/awssdk.core.3.7.204.1.nupkg.sha512",
+    "/home/esta/.nuget/packages/awssdk.s3/3.7.205.10/awssdk.s3.3.7.205.10.nupkg.sha512",
     "/home/esta/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
     "/home/esta/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "/home/esta/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.7.1/fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
@@ -16,10 +16,26 @@
     "/home/esta/.nuget/packages/google.apis.core/1.60.0/google.apis.core.1.60.0.nupkg.sha512",
     "/home/esta/.nuget/packages/google.apis.storage.v1/1.60.0.2981/google.apis.storage.v1.1.60.0.2981.nupkg.sha512",
     "/home/esta/.nuget/packages/google.cloud.storage.v1/4.6.0/google.cloud.storage.v1.4.6.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/esta/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.http/2.2.2/microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.webutilities/2.2.0/microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "/home/esta/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
-    "/home/esta/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.objectpool/2.2.0/microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.options/2.2.0/microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "/home/esta/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
-    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+    "/home/esta/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/system.componentmodel.annotations/4.5.0/system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/home/esta/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "/home/esta/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
   ],
   "logs": []
 }
