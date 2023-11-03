@@ -3,8 +3,6 @@ using ETicaretAPI.Infrastructure.Filters;
 using ETicaretAPI.Persistence;
 using ETicaretAPI.Infrastructure;
 using FluentValidation.AspNetCore;
-using ETicaretAPI.Infrastructure.Services.Storage.Local;
-using ETicaretAPI.Infrastructure.Enums;
 using ETicaretAPI.Infrastructure.Services.Storage.Google;
 using ETicaretAPI.Application;
 
@@ -25,10 +23,11 @@ builder.Services.AddStorage<GoogleStorage>();
 
 // builder.Services.AddStorage(StorageType.Local);
 
+// builder.Services.AddCors(options => options.AddDefaultPolicy(policy => 
+//     policy.WithOrigins("http://localhost:4200","https://localhost:4200").AllowAnyHeader().AllowAnyMethod()
+// )); 
+builder.Services.AddCors(options => {options.AddPolicy("Coriolis", policy => policy.WithOrigins("https://localhost:4200", "http://localhost:4200").AllowAnyHeader().AllowAnyMethod());}); 
 
-builder.Services.AddCors(options => options.AddDefaultPolicy(policy => 
-    policy.WithOrigins("http://localhost:4200","https://localhost:4200").AllowAnyHeader().AllowAnyMethod()
-    )); 
 builder.Services.AddControllers(options => options.Filters.Add<ValidationFilter>())
 .AddFluentValidation(configuration => configuration.RegisterValidatorsFromAssemblyContaining<CreateProductValidator>())
 .ConfigureApiBehaviorOptions(options => options.SuppressModelStateInvalidFilter= true);
@@ -47,7 +46,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseStaticFiles(); 
 app.UseHttpsRedirection();
-app.UseCors();
+app.UseCors("Coriolis");
 
 app.UseAuthorization();
 

@@ -257,3 +257,9 @@
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/eticaretapi-397501-eca7aeb11e38.json
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/eticaretapi-397501-151ad1469f7d.json
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll

@@ -12,6 +12,7 @@ using ETicaretAPI.Persistence.Repositories.ProductImageFileRepository;
 using ETicaretAPI.Application.Repositories.FileRepository;
 using ETicaretAPI.Persistence.Repositories.FileRepository;
 using ETicaretAPI.Application.Repositories.InvoiceFileRepository;
+using ETicaretAPI.Domain.Entities.Identity;
 using ETicaretAPI.Persistence.Repositories.InvioceFileRepository;
 
 namespace ETicaretAPI.Persistence;
@@ -22,7 +23,15 @@ public static class ServiceRegistration
     {
         services.AddDbContext<ETicaretAPIDbContext>(options =>
             options.UseNpgsql(Configuration.ConnectionString));
-        
+        services.AddIdentity<AppUser, AppRole>(options =>
+        {
+            options.Password.RequiredLength = 3;
+            options.Password.RequireDigit = false;
+            options.Password.RequireLowercase = false;
+            options.Password.RequireNonAlphanumeric = false;
+            options.Password.RequireUppercase = false;
+            
+        } ).AddEntityFrameworkStores<ETicaretAPIDbContext>();
         services.AddScoped<ICustomerReadRepository, CustomerReadRepository>();
         services.AddScoped<ICustomerWriteRepository, CustomerWriteRepository>();
         services.AddScoped<IOrderReadRepository, OrderReadRepository>();
