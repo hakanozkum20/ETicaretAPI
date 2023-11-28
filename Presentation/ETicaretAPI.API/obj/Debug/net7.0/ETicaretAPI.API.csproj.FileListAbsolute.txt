@@ -263,3 +263,10 @@
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll

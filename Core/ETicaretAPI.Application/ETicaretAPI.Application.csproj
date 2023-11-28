@@ -24,7 +24,6 @@
         <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
     </ItemGroup>
     <ItemGroup>
-      <Folder Include="Abstractions/" />
       <Folder Include="Abstractions/Storage/" />
     </ItemGroup>
 
