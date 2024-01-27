@@ -13,3 +13,4 @@
 /home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/refint/ETicaretAPI.Application.dll
 /home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.pdb
 /home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ref/ETicaretAPI.Application.dll
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.sourcelink.json

@@ -270,3 +270,4 @@
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
 /home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/esta/RiderProjects/ETicaretAPI/Presentation/ETicaretAPI.API/obj/Debug/net7.0/ETicaretAPI.API.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VGTo9GO4YdLr3yiqP5ivGQQdFXzG4VGBgs3w3rZC3KkUZ14j9ux5OJDb9xWLtHB5rNBzogmYEUz7y22ktX1+mA==",
+  "dgSpecHash": "8gRa4F96tyres3BTaqct/Kcw7K2PvW9VxA8gtlcNER5L8iIofMxmAwtZkC23gudZ3Wtqrf2qzJMnJdgGETO1jw==",
   "success": true,
   "projectFilePath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
   "expectedPackageFiles": [
@@ -71,7 +71,8 @@
     "/home/esta/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
     "/home/esta/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/home/esta/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+    "/home/esta/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

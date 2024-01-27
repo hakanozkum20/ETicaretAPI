@@ -15,3 +15,4 @@
 /home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/refint/ETicaretAPI.Infrastructure.dll
 /home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.pdb
 /home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ref/ETicaretAPI.Infrastructure.dll
+/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.sourcelink.json

@@ -81,11 +81,11 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100-rc.2.23502.2/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -154,11 +154,11 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -166,7 +166,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100-rc.2.23502.2/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -235,11 +235,11 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -247,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100-rc.2.23502.2/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -340,11 +340,11 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -352,7 +352,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100-rc.2.23502.2/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -433,15 +433,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.15, 7.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -452,7 +452,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100-rc.2.23502.2/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

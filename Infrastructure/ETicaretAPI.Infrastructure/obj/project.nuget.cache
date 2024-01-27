@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gsE92AQnlU9FzqYckOCH5l4wkdh6l0C32BQ/WH7q1O/fqSnGT60e8KYujgCRfr0c41zvA+49Vp1RL57YU8n1ag==",
+  "dgSpecHash": "uS5mXxov2hdyM1gdPLyQIZTk7w+VyYBGlOAznS4nz/2t8M4xSHOG44rtw89HLqOTM3xr+/gNOlXfTWDBWOJBgw==",
   "success": true,
   "projectFilePath": "/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/ETicaretAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -76,8 +76,8 @@
     "/home/esta/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
     "/home/esta/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
     "/home/esta/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512",
-    "/home/esta/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
-    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512"
+    "/home/esta/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

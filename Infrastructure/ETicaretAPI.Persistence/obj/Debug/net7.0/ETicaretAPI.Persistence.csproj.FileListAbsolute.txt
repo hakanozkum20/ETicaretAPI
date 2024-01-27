@@ -17,3 +17,4 @@
 /home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.pdb
 /home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.genruntimeconfig.cache
 /home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ref/ETicaretAPI.Persistence.dll
+/home/esta/RiderProjects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.sourcelink.json

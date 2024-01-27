@@ -10,3 +10,4 @@
 /home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/refint/ETicaretAPI.Domain.dll
 /home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ETicaretAPI.Domain.pdb
 /home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ref/ETicaretAPI.Domain.dll
+/home/esta/RiderProjects/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net7.0/ETicaretAPI.Domain.sourcelink.json
