@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "eticaretapi-397501",
+  "private_key_id": "eca7aeb11e3883be3cd9aecd1045be014b8308fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCFpzRVsY9WBqnV\nnKoouRRpeB3gRAa0eEc9bmb7ZX/GaXSRjtn6RcQnFRSxOw5DieXVusYry79IBmha\n3G3aPvMARzfME9EOm8EXml/RTkZJmd4fi+29EM9jtmrMCQpu8D4y+lbdK89CQqln\nBei/96AR0ZMvph5BTQ7LPpthMu4YxvginAdp6h03v8FYnyQGXBzlbNaTTaAvCyUE\ndzCM6iyrJttNJZ7N6wI5OTnz46sJkhI78NWCjaLI7t9sFtPXT0HL7yU0MSXOGvam\nBR65rK4wSlnww1tmHXOaVCzWrbURFjBH3eu0nhRN8OkzVf4TdtvyMR7z8eh+TpHL\nT+Cwv7TFAgMBAAECggEABgSkZ6NqJ95+8T5vrwu+bo1ZEwsdHi04T/zTqEhGu6Ft\n/UvoZsuTbIsXdm+JUeM4tSoG2FwBTfXz5vt7+tLQ0FdknMzbogPDaxOpctxKb+/8\nv4DmgJfsLro9DtjtXld1BYieNrFNUNd9l0T92P8GdybvsLqTLC+TFfXIu1S2wejL\nBQNA1DYe9ApfN3NAXo3TGQYsRcXgmH3W2WDleak17Bgxpge8SPMmoBbpz0TmAuFE\nE2A5aIONxKr1lmxAmKChOoZ8xfk6UDO0CwpHy6ObBQQf7HsYDExh/lDxpr9F+McD\n8uiZVf8bTQ7zPc9JQA0H6BoM3G5TeCt8IgreKtJnAQKBgQC5onJaxXYlXH9P9lUp\ntk+O7PDGfMNFP1Dtwa4XJy+E15g7t9qXtqMKLSyfrh8oogEMH/vYqFuoSElJrKCF\nTYSS7K/eWHGMvLjx9+fcwGGAzAD1zp5KgYGvRFF7E+0NdnlnNjj3BKWV4MyyIJRZ\nFRQnlBwQlFQA4nhgEqab8VYQQQKBgQC4UJmYkBIvtakgzvJJ91+a0qNVwNF1XP64\nEO0c/hb+dqM0mcVRdpT0CSPGEMndE+pLMYgihk+fZUHjAlxHsgY0zQ3j1hwMfsYF\nItoglPm/mUdQeaycWnb1ouBuS7zcsNJVhjBt02nDjU3USRpig4XXk5xjx9/X818l\nh9IcFriDhQKBgHSRwAGkMdawSPork7sH0tnLjD74JZ8cbXN/xhSf9MUUpXIKt+fB\nNoyzZWw4aTSY1tOIWhvpTPVVvz/WeU58KR4iJyYWn+diszivFhiXbiL0+D1jLB9Z\nR9iJrCj/kEJ9/SqE8Cyd7GU7rw7ESqPOCsP3y8/VdRLBJBogXCNc31CBAoGBAI5z\n3QKI90VgheMRjzmTs5SZkBvK9xhaU5Q3oMtzppntX55b6qFXoTArkDaY6yuvJLoR\nAkKMxCVRwWaOgHv5H8rXYRDifrM5mBqIIUZlXdGzyeZs4/fEA4U96W/VoZaAI1Bu\nciev6mJ1Z93W0kmplVxUfd6wsFTbiIIdQ0rqVJlxAoGBAKbH7dFnvuvvjS7YCJUI\nJW8LMjQREhHZmfdeAuTEsZUaops96Mgih3bmD5qDESnJuXodDyUQpDSadSUD9jx+\n5LBdZ+MLCayyIzI01olotLaeihLrdZRhCQ9UDok0/lcggDSVSl7gtB5S9zmyNjY+\nKCRj83bDUMvK537OY43M+qUz\n-----END PRIVATE KEY-----\n",
+  "client_email": "eticaretmini@eticaretapi-397501.iam.gserviceaccount.com",
+  "client_id": "111910215188947324699",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eticaretmini%40eticaretapi-397501.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
